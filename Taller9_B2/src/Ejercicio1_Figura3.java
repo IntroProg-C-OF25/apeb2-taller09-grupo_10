@@ -1,4 +1,10 @@
 
+/** *
+ * FIGURA 3
+ * Con el objetivo practicar el uso del ciclo repetitivo for,
+ * se propone que dado un límite, se presenten las siguientes figuras.
+ * Por ejemplo si el límite es 4:
+ */
 public class Ejercicio1_Figura3 {
 
     public static void main(String[] args) {
@@ -7,7 +13,7 @@ public class Ejercicio1_Figura3 {
         for (int i = 1; i <= limit; i++) {
 
             for (int j = i; j < limit; j++) {
-               System.out.print(" ");
+                System.out.print(" ");
             }
 
             for (int k = 1; k <= (2 * i - 1); k++) {
@@ -29,14 +35,15 @@ public class Ejercicio1_Figura3 {
         }
     }
 }
-/***
- 
-    *
-   ***
-  *****
+/**
+ * *
+ *
+ *
+ ***
+ *****
  *******
-  *****
-   ***
-    *
- *BUILD SUCCESSFUL (total time: 0 seconds)
+ *****
+ ***
+ *
+ * BUILD SUCCESSFUL (total time: 0 seconds)
  */
