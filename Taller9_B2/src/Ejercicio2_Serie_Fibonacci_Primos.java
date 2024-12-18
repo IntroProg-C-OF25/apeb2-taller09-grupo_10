@@ -38,3 +38,13 @@ public class Ejercicio2_Serie_Fibonacci_Primos {
 
     }
 }
+/***
+ * run:
+ * Ingrese el limite de la serie: 6
+ * 1/2
+ * 1/3
+ * 2/5
+ * 3/7
+ * 5/11
+ * 8/13
+ */

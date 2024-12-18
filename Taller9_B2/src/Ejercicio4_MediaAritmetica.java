@@ -27,3 +27,9 @@ public class Ejercicio4_MediaAritmetica {
     }
 
 }
+/***
+ * run:
+ * La media aritmetica es: 9.0
+ * Los que estan por arriba de la media aritmetica son: 8 numeros
+ * Los que estan por debajo de la media aritmetica son: 5 numeros
+ */

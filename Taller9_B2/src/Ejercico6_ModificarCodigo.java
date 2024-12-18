@@ -30,8 +30,8 @@ public class Ejercico6_ModificarCodigo {
             for (String estudiante : estudiantes) {
                 if (estudiante.startsWith(inicial)) {
                     System.out.println("Coincidencia encontrada en: " + estudiante);
-                    bandera = false;
                     encontrado = true;
+                    bandera = false;
                     break;                    
                 }
             }
@@ -43,3 +43,12 @@ public class Ejercico6_ModificarCodigo {
         
     }
 }
+/***
+ * run:
+ * Ingrese una letra: G
+ * No coincide con ningun nombre, intente de nuevo
+ * Ingrese una letra: V
+ * No coincide con ningun nombre, intente de nuevo
+ * Ingrese una letra: M
+ * Coincidencia encontrada en: Mark
+ */
