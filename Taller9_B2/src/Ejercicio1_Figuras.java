@@ -11,3 +11,10 @@ public class Ejercicio1_Figuras {
     }
     
 }
+/***
+ *
+ **
+ ***
+ ****
+ *BUILD SUCCESSFUL (total time: 0 seconds)
+ */

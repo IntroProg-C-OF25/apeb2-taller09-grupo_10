@@ -13,3 +13,10 @@ public class Ejercicio1_Figura2 {
         }
     }
 }
+/***
+    *
+   ***
+  *****
+ *******
+ *BUILD SUCCESSFUL (total time: 0 seconds)
+ */
